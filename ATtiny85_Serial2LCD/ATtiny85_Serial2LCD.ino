@@ -72,18 +72,21 @@ void setup(){
     {
       lcd.setCursor(0, 0);
       lcd.print("Arduino Phone");
-      delay(800);
+      delay(1000);
       lcd.setCursor(0, 1);
       lcd.print("Booting");
-      delay(400);
+      delay(500);
       lcd.setCursor(0, 1);
       lcd.print("Booting.");
-      delay(400);
+      delay(500);
       lcd.setCursor(0, 1);
       lcd.print("Booting..");
-      delay(400);
+      delay(500);
       lcd.setCursor(0, 1);
       lcd.print("Booting...");
+      delay(1000);
+      lcd.setCursor(0, 1);
+      lcd.print("Booting...Done");
       delay(1000);
       lcd.clear();
     }
