@@ -1,0 +1,16 @@
+Atmel ATtiny 85
+http://www.digikey.com/product-detail/en/ATTINY85-20PU/ATTINY85-20PU-ND/735469?itemSeq=143741056&uq=635270346777665770
+TI SN74HC595
+http://www.digikey.com/product-detail/en/SN74HC595N/296-1600-5-ND/277246
+Bourns 3386P Trimpot 10K
+http://www.digikey.com/product-detail/en/3386P-1-103LF/3386P-103LF-ND/1088523
+16x2 Character LCD
+http://www.ebay.com/itm/400602989188
+NPN Transistor 2n2222
+http://www.digikey.com/product-detail/en/PN2222ABU/PN2222AFS-ND/6534?itemSeq=144868771&uq=635287046753041439
+270 Ohm Resistor
+http://www.digikey.com/product-detail/en/CFR-25JB-52-270R/270QBK-ND/1386
+16 Pin Header
+http://www.digikey.com/product-detail/en/PPPC161LFBN-RC/S7049-ND/810188
+3 Pin Header
+http://www.digikey.com/product-detail/en/PBC03SBBN/S1121E-03-ND/860379
