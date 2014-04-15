@@ -10,7 +10,7 @@ NPN Transistor 2n2222
 http://www.digikey.com/product-detail/en/PN2222ABU/PN2222AFS-ND/6534?itemSeq=144868771&uq=635287046753041439
 270 Ohm Resistor
 http://www.digikey.com/product-detail/en/CFR-25JB-52-270R/270QBK-ND/1386
-16 Pin Header
+16 Pin Female Header
 http://www.digikey.com/product-detail/en/PPPC161LFBN-RC/S7049-ND/810188
 3 Pin Header
 http://www.digikey.com/product-detail/en/PBC03SBBN/S1121E-03-ND/860379

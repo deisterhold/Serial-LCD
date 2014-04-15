@@ -44,6 +44,7 @@ SoftwareSerial input(3,4); //RX,TX
   screen displayed (or not) according to the EEPROM states.
   ----------------------------------------------------------*/
 void setup(){
+  delay(200);
   // initialize the serial communications:
   setBaudRate(EEPROM.read(BAUD_ADDRESS));
   
@@ -71,32 +72,19 @@ void setup(){
     if (columns == 16)
     {
       lcd.setCursor(0, 0);
-      lcd.print("Arduino Phone");
-      delay(1000);
+      lcd.print("Serial LCD Kit ");
       lcd.setCursor(0, 1);
-      lcd.print("Booting");
-      delay(500);
-      lcd.setCursor(0, 1);
-      lcd.print("Booting.");
-      delay(500);
-      lcd.setCursor(0, 1);
-      lcd.print("Booting..");
-      delay(500);
-      lcd.setCursor(0, 1);
-      lcd.print("Booting...");
-      delay(1000);
-      lcd.setCursor(0, 1);
-      lcd.print("Booting...Done");
+      lcd.print("Ready");
       delay(1000);
       lcd.clear();
     }
     else
     {
       lcd.setCursor(0, 1);
-      lcd.print("  www.SparkFun.com  ");
+      lcd.print("   Serial LCD Kit ");
       lcd.setCursor(0, 2);
-      lcd.print("   Serial LCD Kit   ");
-      delay(2000);
+      lcd.print("   Ready");
+      delay(1000);
       lcd.clear();
     }
   }
